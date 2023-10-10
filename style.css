@@ -1,0 +1,31 @@
+nav {
+    background-color: rgba(117, 91, 21, 0.963);
+    color: azure;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color:rgba(117, 91, 21, 0.963) ;
+    padding: 20px;
+    text-align: center;
+}
